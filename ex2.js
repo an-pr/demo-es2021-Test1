@@ -1,7 +1,7 @@
 let array1 = ['Teresa', 'Andrey', 'Katya', 'Basya', 'Ryjyk']
 let array2 = [20, 5, 112, 72, 1, 13, 94]
 let array = ['b', 'g', 'h', 'a', 'd', 'z', 'l']
-
+// задача ко второму уроку
 
 /*mySort(array)
 
